@@ -14,12 +14,12 @@ with open("README.rst", "rb") as f:
 
 
 setup(
-    name = "nested_print",
-    packages = ["nested_print"],
+    name = "nprint",
+    packages = ["nprint"],
     version = version,
     description = "A lightweight nested printing, for all your function within loops within function needs",
     long_description = long_descr,
     author = "Joey Sham",
     author_email = "sham.joey@gmail.com",
-    url = "https://github.com/joeyism/py-nested_print"
+    url = "https://github.com/joeyism/py-nprint"
     )
