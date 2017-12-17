@@ -21,6 +21,5 @@ setup(
     long_description = long_descr,
     author = "Joey Sham",
     author_email = "sham.joey@gmail.com",
-    url = "https://github.com/joeyism/py-nested_print",
-    install_requires=req
+    url = "https://github.com/joeyism/py-nested_print"
     )
