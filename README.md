@@ -58,3 +58,7 @@ This describes how many "nest" or "indentations" to add. Setting `level=0` is th
 
 #### nest
 By default, nest is set to `\t`. This value can be set if you want to modify the indentation. For example, instead of using `\t`, you can set `nest="  "` to just add 2 spaces as the indentation. Or set `nest="--"` to set two dashes for every indentation.
+
+## Versions
+**1.0.x**
+* Original publish and its fixes
