@@ -1,0 +1,1 @@
+from .nprint import nprint
