@@ -5,7 +5,7 @@ A lightweight nested printing, for all your function within loops within functio
 You can install using pip with
 
 ```bash
-    pip3 install --user nested_print
+pip3 install --user nested_print
 ```
 
 ## Usage
@@ -19,8 +19,8 @@ This functions like an extension to the python print API, so you can use `end` a
 ```python
 from nested_print import nprint
 
-nprint("hi", "there", level=2)              # returns \t\t hi there
-nprint("hi", "there", level=1, nest="--")   # returns -- hi there
+nprint("hi", "there", level=2)              # prints \t\t hi there
+nprint("hi", "there", level=1, nest="--")   # prints -- hi there
 ```
 
 ### Motivation Example
