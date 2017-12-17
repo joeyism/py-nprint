@@ -12,9 +12,6 @@ version = "1.0.0"
 with open("README.rst", "rb") as f:
     long_descr = f.read().decode("utf-8")
 
-with open("requirements.txt", "rb") as f:
-    req = f.read().decode("utf-8")
-
 
 setup(
     name = "nested_print",
