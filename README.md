@@ -35,6 +35,22 @@ for i in range(10):
         nprint(j, level=2)
 ```
 
+which prints
+
+```bash
+here
+    0
+        0
+        1
+        2
+    1
+        0
+        1
+        2
+...
+```
+so it becomes easier for me to debug
+
 ### API
 
 #### level
